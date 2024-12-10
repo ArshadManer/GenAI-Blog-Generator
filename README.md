@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/272f16f0-4b7d-43b0-9fa2-6dbcd8758225)# 🚀 GenAI Blog Generator 📝
+# 🚀 GenAI Blog Generator 📝
 
 ### 🌟 About This Project
 Ever thought about how cool it would be to have AI write blogs for you? Well, here it is! This project uses the power of **AWS Bedrock** and **LLMs** to generate kickass blogs on any topic. 🧠✨
