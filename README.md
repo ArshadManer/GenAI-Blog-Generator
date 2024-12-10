@@ -52,9 +52,12 @@ All wrapped up with AWS superpowers. ⚡
 5. **Cloudwatch**:![image alt](https://github.com/ArshadManer/GenAI-Blog-Generator/blob/main/images/CW.png?raw=true)
 6. **S3**: ![image alt](https://github.com/ArshadManer/GenAI-Blog-Generator/blob/main/images/S3%20blog%20output.png?raw=true)
 
-🚀 Future Plans
-Add more LLMs (GPT-4, anyone? 👀).
-Customizable tone and style settings.
-Real-time dashboard for API analytics.
-Multi-language support 🌍.
+
+---
+
+### 🚀 Future Plans
+- Add more LLMs (GPT-4, anyone? 👀).
+- Customizable tone and style settings.
+- Real-time dashboard for API analytics.
+- Multi-language support 🌍.
 
