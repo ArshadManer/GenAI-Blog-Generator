@@ -45,5 +45,6 @@ All wrapped up with AWS superpowers. ⚡
 ---
 
 ### 🧑‍💻 How to Run
-1. **Clone this repo**:  
-![Architecture Diagram](images/API Gateway.png)
+1. **Clone this repo**:
+   
+![image alt](https://github.com/ArshadManer/GenAI-Blog-Generator/blob/main/images/API%20Gateway.png?raw=true)
