@@ -44,7 +44,10 @@ All wrapped up with AWS superpowers. ⚡
 
 ---
 
-### 🧑‍💻 How to Run
-1. **Clone this repo**:
-   
+### 🧑‍💻 How to Run in AWS
+1. **API Gatweway**: ![image alt](https://github.com/ArshadManer/GenAI-Blog-Generator/blob/main/images/API%20Gateway.png?raw=true)
+2. **Lambda**:
+3. **BEDROCK**:
+4. **Postman**:
+5. **Cloudwatch**:
 ![image alt](https://github.com/ArshadManer/GenAI-Blog-Generator/blob/main/images/API%20Gateway.png?raw=true)
